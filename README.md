@@ -80,3 +80,7 @@ This project involves preprocessing, manipulating, and evaluating images to test
 ## Conclusion
 The project highlights the importance of robust preprocessing and model generalization. While the model performs well on the original dataset, additional strategies such as data augmentation and fine-tuning are required to handle real-world variations effectively.
 
+You can access the notebook on Kaggle using the link below:
+
+[Kaggle Notebook: Image Processing with CNN](https://www.kaggle.com/code/fatmanurkantar/image-processing-with-cnn)
+
